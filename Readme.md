@@ -31,12 +31,6 @@ The app continuously:
 
 ---
 
-## 📱 Demo
-
-> (Add your screen recording or screenshots here)
-
----
-
 ## 🛠️ Tech Stack
 
 * Kotlin
@@ -51,4 +45,18 @@ The app continuously:
 * 🎨 Heatmap visualization using color gradients
 * 🌍 Firebase integration for multi-user data
 * 🧭 Route-based signal analysis
-[](url)
+
+## 📱 App Preview
+
+### 🟢 Strong Signal
+
+![Strong Signal](strong.jpeg)
+
+### 🟡 Medium Signal
+
+![Medium Signal](medium.jpeg)
+
+### 🔴 Weak Signal
+
+![Weak Signal](weak.jpeg)
+
